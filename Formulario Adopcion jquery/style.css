@@ -1,0 +1,24 @@
+#intro{
+    background-color: rgb(250, 215, 215);
+    text-align: center;
+    padding: 20px;
+}
+#team{
+    background-color: rgb(149, 201, 142);
+    text-align: center;
+    padding: 20px;
+}
+#rescue{
+    background-color: snow;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: rgba(71, 135, 255, 0.5);
+}
+.morado{
+    color: rgb(124, 101, 124)
+}
+body{
+    background-color: rgb(7, 7, 7);
+}
